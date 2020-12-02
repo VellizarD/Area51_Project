@@ -1,0 +1,382 @@
+Simulation Started, current time: 1.12.2020 г. 18:18:16
+Agent 1 [Top_Secret] entered the building!
+Agent 2 [Confidential] entered the building!
+Agent 3 [Secret] entered the building!
+Agent 1 is calling the elevator from G!
+Elevator is already at G
+Elevator opened!
+Agent 1 entered the elevator!
+Agent 1 pressed button for floor S!
+	*
+Elevator arrived at S
+Elevator opened!
+Agent 1 left the elevator!
+Agent 2 is calling the elevator from G!
+Elevator was called at G
+	*
+Elevator arrived at G
+Elevator opened!
+Agent 2 entered the elevator!
+Agent 1 is doing some work at floor S! Work Done: 0%
+
+Agent 2 pressed button for floor S!
+	*
+Elevator arrived at S
+		  ----------------------------------------------
+		  Δ=> Agent has unsufficient Security Level! <=Δ
+		Please push a button according to your Security Level!
+		------------------------------------------------------
+Agent 2 pressed button for floor T2!
+	*	*
+Elevator arrived at T2
+		  ----------------------------------------------
+		  Δ=> Agent has unsufficient Security Level! <=Δ
+		Please push a button according to your Security Level!
+		------------------------------------------------------
+Agent 2 pressed button for floor G!
+	*	*	*
+Elevator arrived at G
+Elevator opened!
+Agent 2 left the elevator!
+Agent 2 is doing some work at floor G! Work Done: 0%
+
+Agent 3 is calling the elevator from G!
+Elevator is already at G
+Elevator opened!
+Agent 3 entered the elevator!
+Agent 3 pressed button for floor S!
+	*
+Elevator arrived at S
+Elevator opened!
+Agent 3 left the elevator!
+Agent 3 is doing some work at floor S! Work Done: 0%
+
+Agent 1 is calling the elevator from S!
+Elevator is already at S
+Elevator opened!
+Agent 1 entered the elevator!
+Agent 1 pressed button for floor G!
+	*
+Elevator arrived at G
+Elevator opened!
+Agent 1 left the elevator!
+Agent 1 is doing some work at floor G! Work Done: 17%
+
+Agent 2 is calling the elevator from G!
+Elevator is already at G
+Elevator opened!
+Agent 2 entered the elevator!
+Agent 2 pressed button for floor T1!
+	*	*
+Elevator arrived at T1
+		  ----------------------------------------------
+		  Δ=> Agent has unsufficient Security Level! <=Δ
+		Please push a button according to your Security Level!
+		------------------------------------------------------
+Agent 2 pressed button for floor G!
+	*	*
+Elevator arrived at G
+Elevator opened!
+Agent 2 left the elevator!
+Agent 2 is doing some work at floor G! Work Done: 20%
+
+Agent 3 is calling the elevator from S!
+Elevator was called at S
+	*
+Elevator arrived at S
+Elevator opened!
+Agent 3 entered the elevator!
+Agent 3 pressed button for floor G!
+	*
+Elevator arrived at G
+Elevator opened!
+Agent 3 left the elevator!
+Agent 3 is doing some work at floor G! Work Done: 17%
+
+Agent 1 is calling the elevator from G!
+Elevator is already at G
+Elevator opened!
+Agent 1 entered the elevator!
+Agent 1 pressed button for floor T1!
+	*	*
+Elevator arrived at T1
+Elevator opened!
+Agent 1 left the elevator!
+Agent 1 is doing some work at floor T1! Work Done: 37%
+
+Agent 2 is calling the elevator from G!
+Elevator was called at G
+	*	*
+Elevator arrived at G
+Elevator opened!
+Agent 2 entered the elevator!
+Agent 2 pressed button for floor T1!
+	*	*
+Elevator arrived at T1
+		  ----------------------------------------------
+		  Δ=> Agent has unsufficient Security Level! <=Δ
+		Please push a button according to your Security Level!
+		------------------------------------------------------
+Agent 2 pressed button for floor T2!
+	*
+Elevator arrived at T2
+		  ----------------------------------------------
+		  Δ=> Agent has unsufficient Security Level! <=Δ
+		Please push a button according to your Security Level!
+		------------------------------------------------------
+Agent 2 pressed button for floor S!
+	*	*
+Elevator arrived at S
+		  ----------------------------------------------
+		  Δ=> Agent has unsufficient Security Level! <=Δ
+		Please push a button according to your Security Level!
+		------------------------------------------------------
+Agent 2 pressed button for floor G!
+	*
+Elevator arrived at G
+Elevator opened!
+Agent 2 left the elevator!
+Agent 2 is doing some work at floor G! Work Done: 37%
+
+Agent 3 is calling the elevator from G!
+Elevator is already at G
+Elevator opened!
+Agent 3 entered the elevator!
+Agent 3 pressed button for floor T1!
+	*	*
+Elevator arrived at T1
+		  ----------------------------------------------
+		  Δ=> Agent has unsufficient Security Level! <=Δ
+		Please push a button according to your Security Level!
+		------------------------------------------------------
+Agent 3 pressed button for floor G!
+	*	*
+Elevator arrived at G
+Elevator opened!
+Agent 3 left the elevator!
+Agent 3 is doing some work at floor G! Work Done: 37%
+
+Agent 1 is calling the elevator from T1!
+Elevator was called at T1
+	*	*
+Elevator arrived at T1
+Elevator opened!
+Agent 1 entered the elevator!
+Agent 1 pressed button for floor G!
+	*	*
+Elevator arrived at G
+Elevator opened!
+Agent 1 left the elevator!
+Agent 1 is doing some work at floor G! Work Done: 56%
+
+Agent 2 is calling the elevator from G!
+Elevator is already at G
+Elevator opened!
+Agent 2 entered the elevator!
+Agent 2 pressed button for floor T2!
+	*	*	*
+Elevator arrived at T2
+		  ----------------------------------------------
+		  Δ=> Agent has unsufficient Security Level! <=Δ
+		Please push a button according to your Security Level!
+		------------------------------------------------------
+Agent 2 pressed button for floor T1!
+	*
+Elevator arrived at T1
+		  ----------------------------------------------
+		  Δ=> Agent has unsufficient Security Level! <=Δ
+		Please push a button according to your Security Level!
+		------------------------------------------------------
+Agent 2 pressed button for floor G!
+	*	*
+Elevator arrived at G
+Elevator opened!
+Agent 2 left the elevator!
+Agent 2 is doing some work at floor G! Work Done: 63%
+
+Agent 3 is calling the elevator from G!
+Elevator is already at G
+Elevator opened!
+Agent 3 entered the elevator!
+Agent 3 pressed button for floor T1!
+	*	*
+Elevator arrived at T1
+		  ----------------------------------------------
+		  Δ=> Agent has unsufficient Security Level! <=Δ
+		Please push a button according to your Security Level!
+		------------------------------------------------------
+Agent 3 pressed button for floor T2!
+	*
+Elevator arrived at T2
+		  ----------------------------------------------
+		  Δ=> Agent has unsufficient Security Level! <=Δ
+		Please push a button according to your Security Level!
+		------------------------------------------------------
+Agent 3 pressed button for floor S!
+	*	*
+Elevator arrived at S
+Elevator opened!
+Agent 3 left the elevator!
+Agent 3 is doing some work at floor S! Work Done: 54%
+
+Agent 1 is calling the elevator from G!
+Elevator was called at G
+	*
+Elevator arrived at G
+Elevator opened!
+Agent 1 entered the elevator!
+Agent 1 pressed button for floor T2!
+	*	*	*
+Elevator arrived at T2
+Elevator opened!
+Agent 1 left the elevator!
+Agent 1 is doing some work at floor T2! Work Done: 79%
+
+Agent 2 is calling the elevator from G!
+Elevator was called at G
+	*	*	*
+Elevator arrived at G
+Elevator opened!
+Agent 2 entered the elevator!
+It's time for Agent 1 to go home!
+Agent 2 pressed button for floor T1!
+	*	*
+Elevator arrived at T1
+		  ----------------------------------------------
+		  Δ=> Agent has unsufficient Security Level! <=Δ
+		Please push a button according to your Security Level!
+		------------------------------------------------------
+Agent 2 pressed button for floor T2!
+	*
+Elevator arrived at T2
+		  ----------------------------------------------
+		  Δ=> Agent has unsufficient Security Level! <=Δ
+		Please push a button according to your Security Level!
+		------------------------------------------------------
+Agent 2 pressed button for floor T1!
+	*
+Elevator arrived at T1
+		  ----------------------------------------------
+		  Δ=> Agent has unsufficient Security Level! <=Δ
+		Please push a button according to your Security Level!
+		------------------------------------------------------
+Agent 2 pressed button for floor T2!
+	*
+Elevator arrived at T2
+		  ----------------------------------------------
+		  Δ=> Agent has unsufficient Security Level! <=Δ
+		Please push a button according to your Security Level!
+		------------------------------------------------------
+Agent 2 pressed button for floor T1!
+	*
+Elevator arrived at T1
+		  ----------------------------------------------
+		  Δ=> Agent has unsufficient Security Level! <=Δ
+		Please push a button according to your Security Level!
+		------------------------------------------------------
+Agent 2 pressed button for floor S!
+	*
+Elevator arrived at S
+		  ----------------------------------------------
+		  Δ=> Agent has unsufficient Security Level! <=Δ
+		Please push a button according to your Security Level!
+		------------------------------------------------------
+Agent 2 pressed button for floor T2!
+	*	*
+Elevator arrived at T2
+		  ----------------------------------------------
+		  Δ=> Agent has unsufficient Security Level! <=Δ
+		Please push a button according to your Security Level!
+		------------------------------------------------------
+Agent 2 pressed button for floor T1!
+	*
+Elevator arrived at T1
+		  ----------------------------------------------
+		  Δ=> Agent has unsufficient Security Level! <=Δ
+		Please push a button according to your Security Level!
+		------------------------------------------------------
+Agent 2 pressed button for floor T2!
+	*
+Elevator arrived at T2
+		  ----------------------------------------------
+		  Δ=> Agent has unsufficient Security Level! <=Δ
+		Please push a button according to your Security Level!
+		------------------------------------------------------
+Agent 2 pressed button for floor T1!
+	*
+Elevator arrived at T1
+		  ----------------------------------------------
+		  Δ=> Agent has unsufficient Security Level! <=Δ
+		Please push a button according to your Security Level!
+		------------------------------------------------------
+Agent 2 pressed button for floor G!
+	*	*
+Elevator arrived at G
+Elevator opened!
+Agent 2 left the elevator!
+Agent 2 is doing some work at floor G! Work Done: 91%
+
+It's time for Agent 2 to go home!
+Agent 3 is calling the elevator from S!
+Elevator was called at S
+	*
+Elevator arrived at S
+Elevator opened!
+Agent 3 entered the elevator!
+Agent 3 pressed button for floor G!
+	*
+Elevator arrived at G
+Elevator opened!
+Agent 3 left the elevator!
+Agent 3 is doing some work at floor G! Work Done: 81%
+
+Agent 1 is calling the elevator from T2!
+Elevator was called at T2
+	*	*	*
+Elevator arrived at T2
+Elevator opened!
+Agent 1 entered the elevator!
+Agent 1 pressed button for floor G!
+	*	*	*
+Elevator arrived at G
+Elevator opened!
+Agent 1 left the elevator!
+Agent 1 is leaving the building!
+Agent 2 is calling the elevator from G!
+Elevator is already at G
+Elevator opened!
+Agent 2 entered the elevator!
+Agent 2 pressed button for floor G!
+Elevator is already at G
+Elevator opened!
+Agent 2 left the elevator!
+Agent 2 is leaving the building!
+Agent 3 is calling the elevator from G!
+Elevator is already at G
+Elevator opened!
+Agent 3 entered the elevator!
+Agent 3 pressed button for floor T2!
+	*	*	*
+Elevator arrived at T2
+		  ----------------------------------------------
+		  Δ=> Agent has unsufficient Security Level! <=Δ
+		Please push a button according to your Security Level!
+		------------------------------------------------------
+Agent 3 pressed button for floor G!
+	*	*	*
+Elevator arrived at G
+Elevator opened!
+Agent 3 left the elevator!
+Agent 3 is doing some work at floor G! Work Done: 99%
+
+It's time for Agent 3 to go home!
+Agent 3 is calling the elevator from G!
+Elevator is already at G
+Elevator opened!
+Agent 3 entered the elevator!
+Agent 3 pressed button for floor G!
+Elevator is already at G
+Elevator opened!
+Agent 3 left the elevator!
+Agent 3 is leaving the building!
+Simulation Ended, current time: 1.12.2020 г. 18:18:26
